@@ -7,4 +7,4 @@
 
 ## Skills
 
-https://img.shields.io/static/v1?label=<DJANGO>&message=<MESSAGE>&color=<yellow>
+[(https://img.shields.io/static/v1?label=<DJANGO>&message=<MESSAGE>&color=<yellow>)]
