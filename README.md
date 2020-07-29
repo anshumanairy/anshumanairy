@@ -14,7 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anshuman.airy04@gmail.com)](mailto:anshuman.airy04@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshuman-airy//)](https://www.linkedin.com/in/anshuman-airy/)
 
-[![Gmail Badge](https://img.shields.io/badge/-QUIKR-green?style=flat&logo=Facebook&logoColor=white&link=mailto:anshuman.airy04@gmail.com)](mailto:anshuman.airy04@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-QUIKR-success?style=flat&logoColor=white&link=mailto:anshuman.airy04@gmail.com)](mailto:anshuman.airy04@gmail.com)
 
 ###
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&count_private=true&show_icons=true&hide=contribs)
