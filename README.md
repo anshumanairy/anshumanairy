@@ -14,5 +14,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanairy)](https://github.com/anshumanairy/github-readme-stats)
 
 #####
-
-![Anshuman's github stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&show_icons=true&theme=dark&count_private=true)
