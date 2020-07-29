@@ -6,7 +6,7 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-success?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/Anshuman_Airy)](https://www.hackerrank.com/Anshuman_Airy)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanairy&layout=compact)](https://github.com/anshumanairy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanairy)](https://github.com/anshumanairy/github-readme-stats)
 
 ###
 
