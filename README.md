@@ -8,10 +8,8 @@
 
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&count_private=true&show_icons=true&hide=contribs)
-
-###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanairy&hide=jupyter%20notebook&layout=compact)](https://github.com/anshumanairy/github-readme-stats)
 
-####
+###
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=Sprint-Management)](https://github.com/anshumanairy/Sprint-Management)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=penta6)](https://github.com/anshumanairy/penta6)
