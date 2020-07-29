@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshuman.airy04@gmail.com)](mailto:anshuman.airy04@gmail.com)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-success?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/Anshuman_Airy)](https://www.hackerrank.com/Anshumandgeiry)
 
-[![Github Badge](https://img.shields.io/badge/-Quikr-Green?style=flat-square&logo=reverbnation&logoColor=white&link=https://github.com/anshumanairy)](https://github.com/anshumanairy)
+[![Github Badge](https://img.shields.io/badge/-Quikr-success?style=flat-square&logo=https://image.winudf.com/v2/image1/Y29tLnF1aWtyX2ljb25fMTU1NTUwMjUwNl8wMjc/icon.png?w=170&fakeurl=1&logoColor=white&link=https://github.com/anshumanairy)](https://github.com/anshumanairy)
 
 ###
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&count_private=true&show_icons=true&hide=contribs)
