@@ -26,5 +26,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=Sprint-Management)](https://github.com/anshumanairy/Sprint-Management)
 
 #####
-![Gif File](https://64.media.tumblr.com/f6779ef3169a8b26831ec6b18d62caf4/tumblr_mzindgpC751rhp399o1_250.gif)
-![Gif File]()
+![Gif File](https://data.whicdn.com/images/228589776/original.gif)
