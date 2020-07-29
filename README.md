@@ -5,7 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshuman.airy04@gmail.com)](mailto:anshuman.airy04@gmail.com)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-success?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/Anshuman_Airy)](https://www.hackerrank.com/Anshuman_Airy)
 
-## Skills
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanairy&layout=compact)](https://github.com/anshumanairy/github-readme-stats)
 
 ###
 
