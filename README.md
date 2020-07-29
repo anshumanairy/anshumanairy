@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/anshumanairy)
 ![Github Badge](https://img.shields.io/badge/-Fullstack%20Software%20Developer-grey?style=flat&logoColor=white)
 [![Github Badge](https://img.shields.io/badge/-Arctic%20Code%20Vault%20Contributor-Black?style=flat&logo=reverbnation&logoColor=white&link=https://github.com/anshumanairy)](https://github.com/anshumanairy)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-success?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/Anshuman_Airy)](https://www.hackerrank.com/Anshuman_Airy)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-blue?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/Anshuman_Airy)](https://www.hackerrank.com/Anshuman_Airy)
 
 ![Django Badge](https://img.shields.io/badge/-Django-success?style=flat&logo=Django&logoColor=white)
 
