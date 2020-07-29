@@ -9,4 +9,4 @@
 
 ###
 
-![Anshuman's github stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&show_icons=true&theme=radical&count_private=true)
+![Anshuman's github stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&show_icons=true&theme=dark&count_private=true)
