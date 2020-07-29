@@ -6,8 +6,8 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-success?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/Anshuman_Airy)](https://www.hackerrank.com/Anshuman_Airy)
 
 ##
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanairy)](https://github.com/anshumanairy/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&count_private=true&show_icons=true)
 
 ###
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=penta6)](https://github.com/anshumanairy/penta6)
