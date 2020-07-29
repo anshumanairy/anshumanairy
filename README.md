@@ -5,7 +5,11 @@
 [![Github Badge](https://img.shields.io/badge/-Arctic%20Code%20Vault%20Contributor-Black?style=flat&logo=reverbnation&logoColor=white&link=https://github.com/anshumanairy)](https://github.com/anshumanairy)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-success?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/Anshuman_Airy)](https://www.hackerrank.com/Anshuman_Airy)
 
+![Python Badge](https://img.shields.io/badge/-Python-4b42f5?style=flat&logo=Python&logoColor=white)
+![Java Badge](https://img.shields.io/badge/-Java-4b42f5?style=flat&logo=Java&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/-Django-4b42f5?style=flat&logo=Django&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/-Javascript-4b42f5?style=flat&logo=Javascript&logoColor=white)
+![Mysql Badge](https://img.shields.io/badge/-Mysql-4b42f5?style=flat&logo=Mysql&logoColor=white)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anshuman.airy04@gmail.com)](mailto:anshuman.airy04@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshuman-airy//)](https://www.linkedin.com/in/anshuman-airy/)
