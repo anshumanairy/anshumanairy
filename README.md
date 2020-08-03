@@ -22,8 +22,8 @@
 
 ####
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=penta6)](https://github.com/anshumanairy/penta6)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=Sprint-Management)](https://github.com/anshumanairy/Sprint-Management)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=Sprint-Management)](https://github.com/anshumanairy/Sprint-Management)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=Hacker-Rank)](https://github.com/anshumanairy/Hacker-Rank)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=Codechef)](https://github.com/anshumanairy/Codechef)
 
