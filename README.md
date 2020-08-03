@@ -18,7 +18,7 @@
 
 ###
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&count_private=true&hide=contribs&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanairy&layout=compact)](https://github.com/anshumanairy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanairy)](https://github.com/anshumanairy/github-readme-stats)
 
 ####
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=penta6)](https://github.com/anshumanairy/penta6)
