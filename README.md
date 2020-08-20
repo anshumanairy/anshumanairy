@@ -17,7 +17,6 @@
 [![Quikr Badge](https://img.shields.io/badge/-QUIKR-success?style=flat&logoColor=white&link=mailto:anshuman.airy04@gmail.com)](mailto:anshuman.airy04@gmail.com)
 
 ###
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanairy&count_private=true&hide=contribs&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanairy&layout=compact)](https://github.com/anshumanairy/github-readme-stats)
 
 ####
