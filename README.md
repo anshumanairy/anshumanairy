@@ -28,4 +28,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=Codechef)](https://github.com/anshumanairy/Codechef)
 
 #####
-![Gif File](https://pa1.narvii.com/7067/07e43a46e07979794391b2e7e9738f9e5902d8b3r1-828-524_00.gif)
