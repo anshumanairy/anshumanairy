@@ -28,3 +28,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anshumanairy&repo=Codechef)](https://github.com/anshumanairy/Codechef)
 
 #####
+![](https://webstockreview.net/images/samurai-clipart-animated-5.gif)
